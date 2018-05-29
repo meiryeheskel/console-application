@@ -1,0 +1,7 @@
+C:\Users\Meir\source\repos\Screensave\Screensave\bin\Debug\Screensave.exe.config
+C:\Users\Meir\source\repos\Screensave\Screensave\bin\Debug\Screensave.exe
+C:\Users\Meir\source\repos\Screensave\Screensave\bin\Debug\Screensave.pdb
+C:\Users\Meir\source\repos\Screensave\Screensave\obj\Debug\Screensave.csprojResolveAssemblyReference.cache
+C:\Users\Meir\source\repos\Screensave\Screensave\obj\Debug\Screensave.csproj.CoreCompileInputs.cache
+C:\Users\Meir\source\repos\Screensave\Screensave\obj\Debug\Screensave.exe
+C:\Users\Meir\source\repos\Screensave\Screensave\obj\Debug\Screensave.pdb
